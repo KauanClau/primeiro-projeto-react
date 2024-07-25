@@ -1,0 +1,18 @@
+footer {
+
+    background-color: #444444;
+    height: 60px;
+}
+
+footer#footer div{
+    display: flex;
+    justify-content: center;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.footer-text p {
+    margin: 20px 0 20px 0;
+    font-size: 18px;
+    font-weight: 400;
+}
